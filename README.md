@@ -7,7 +7,7 @@ It contains **case studies, reports, and practical exercises** that reflect my l
 
 ## 📂 Contents
 - **Labs & Projects**
-  - Home Lab Setup
+  - SOC Home Lab Setup
   - Windows & Linux Hardening
   - Network Monitoring (Wireshark, Nmap)
   - Metasploitable Vulnerability Assessments
