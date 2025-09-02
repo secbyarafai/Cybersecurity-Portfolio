@@ -12,16 +12,16 @@ Full detailed reports are published on my **blog**:
 
 ### ✅ Completed / In Progress
 - [SOC Home Lab Setup](Projects/SOC-Lab/README.md) – Virtual lab with Windows, Linux, and SIEM tools  
-- [Windows Hardening](Labs/Windows-Hardening/README.md) – Securing a Windows system with policies & monitoring  
-- [Linux Hardening](Labs/Linux-Hardening/README.md) – Applying security controls on Linux systems  
-- [Metasploitable Vulnerability Assessment](Labs/Metasploitable-Vulns/README.md) – Scanning & exploiting vulnerable VM  
-- [Network Monitoring & Traffic Analysis](Labs/Network-Monitoring/README.md) – Using Wireshark, Zeek, and tcpdump for packet analysis  
+- [Windows Hardening](Projects/Windows-Hardening/README.md) – Securing a Windows system with policies & monitoring  
+- [Linux Hardening](Projects/Linux-Hardening/README.md) – Applying security controls on Linux systems  
+- [Metasploitable Vulnerability Assessment](Projects/Metasploitable-Vulns/README.md) – Scanning & exploiting vulnerable VM  
+- [Network Monitoring & Traffic Analysis](Projects/Network-Monitoring/README.md) – Using Wireshark, Zeek, and tcpdump for packet analysis  
 
 ### 🔜 Planned Projects
-- [Active Directory Setup & Attacks](Labs/Active-Directory/README.md) – Build & secure an AD environment, simulate common attacks  
-- [SIEM Alert Tuning](Labs/SIEM-Tuning/README.md) – Configuring Wazuh/ELK for log analysis & detection use cases  
+- [Active Directory Setup & Attacks](Projects/Active-Directory/README.md) – Build & secure an AD environment, simulate common attacks  
+- [SIEM Alert Tuning](Projects/SIEM-Tuning/README.md) – Configuring Wazuh/ELK for log analysis & detection use cases  
 - [Incident Response Simulation](Labs/Incident-Response/README.md) – Simulate a phishing or malware incident, document IR process  
-- [Web App Security (OWASP)](Labs/WebApp-Security/README.md) – Testing a demo app against OWASP Top 10 vulnerabilities  
+- [Web App Security (OWASP)](Projects/WebApp-Security/README.md) – Testing a demo app against OWASP Top 10 vulnerabilities  
 - [Log Analysis Automation](Labs/Log-Automation/README.md) – Python/PowerShell scripts to parse and analyze logs  
 
 ---
