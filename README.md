@@ -11,7 +11,7 @@ Full detailed reports are published on my **blog**:
 ## 🧪 Labs & Projects
 
 ### ✅ Completed / In Progress
-- [SOC Home Lab Setup](Labs/SOC-Lab/README.md) – Virtual lab with Windows, Linux, and SIEM tools  
+- [SOC Home Lab Setup](Projects/SOC-Lab/README.md) – Virtual lab with Windows, Linux, and SIEM tools  
 - [Windows Hardening](Labs/Windows-Hardening/README.md) – Securing a Windows system with policies & monitoring  
 - [Linux Hardening](Labs/Linux-Hardening/README.md) – Applying security controls on Linux systems  
 - [Metasploitable Vulnerability Assessment](Labs/Metasploitable-Vulns/README.md) – Scanning & exploiting vulnerable VM  
