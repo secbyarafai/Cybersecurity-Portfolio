@@ -1,25 +1,38 @@
-# Cybersecurity Portfolio
+# Cybersecurity Portfolio 🛡️
 
-Welcome! This repository documents my cybersecurity journey, labs, and projects.  
-It contains **case studies, reports, and practical exercises** that reflect my learning.
+Welcome to my cybersecurity portfolio!  
+This repo is the **index** of all my projects, labs, and write-ups.  
+
+Full detailed reports are published on my **blog**:  
+👉 [Read my cybersecurity blog] https://secbyarafai.blogspot.com/2025/06/Journey-To-Cybersecurity.html
 
 ---
 
-## 📂 Contents
-- **Labs & Projects**
-  - SOC Home Lab Setup
-  - Windows & Linux Hardening
-  - Network Monitoring (Wireshark, Nmap)
-  - Metasploitable Vulnerability Assessments
-- **Write-Ups**
-  - Capture the Flag (CTF) challenges
-  - TryHackMe / HackTheBox progress notes
-- **Reports**
-  - Incident response simulations
-  - Threat detection logs
+## 🧪 Labs & Projects
+
+### ✅ Completed / In Progress
+- [SOC Home Lab Setup](Labs/SOC-Lab/README.md) – Virtual lab with Windows, Linux, and SIEM tools  
+- [Windows Hardening](Labs/Windows-Hardening/README.md) – Securing a Windows system with policies & monitoring  
+- [Linux Hardening](Labs/Linux-Hardening/README.md) – Applying security controls on Linux systems  
+- [Metasploitable Vulnerability Assessment](Labs/Metasploitable-Vulns/README.md) – Scanning & exploiting vulnerable VM  
+- [Network Monitoring & Traffic Analysis](Labs/Network-Monitoring/README.md) – Using Wireshark, Zeek, and tcpdump for packet analysis  
+
+### 🔜 Planned Projects
+- [Active Directory Setup & Attacks](Labs/Active-Directory/README.md) – Build & secure an AD environment, simulate common attacks  
+- [SIEM Alert Tuning](Labs/SIEM-Tuning/README.md) – Configuring Wazuh/ELK for log analysis & detection use cases  
+- [Incident Response Simulation](Labs/Incident-Response/README.md) – Simulate a phishing or malware incident, document IR process  
+- [Web App Security (OWASP)](Labs/WebApp-Security/README.md) – Testing a demo app against OWASP Top 10 vulnerabilities  
+- [Log Analysis Automation](Labs/Log-Automation/README.md) – Python/PowerShell scripts to parse and analyze logs  
+
+---
+
+## 📝 Write-ups
+- [TryHackMe Challenges](Writeups/TryHackMe/README.md) – Path progress and notes  
+- [HackTheBox Challenges](Writeups/HTB/README.md) – Walkthroughs of selected boxes  
+- [CTFs](Writeups/CTFs/README.md) – Capture the Flag event write-ups  
 
 ---
 
 ## 🎯 Goal
-To demonstrate practical, hands-on experience in cybersecurity and my readiness for a role in a professional team.
-
+To demonstrate **practical, hands-on skills** in cybersecurity while learning continuously.  
+This portfolio shows my journey across Red Team (offensive) and Blue Team (defensive) practices.
