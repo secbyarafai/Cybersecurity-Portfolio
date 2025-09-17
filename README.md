@@ -14,7 +14,7 @@ Full detailed reports are published on my **blog**:
 - [Windows Hardening](Projects/Windows-Hardening/README.md) – Securing a Windows system with policies & monitoring  
 - [Linux Hardening](Projects/Linux-Hardening/README.md) – Applying security controls on Linux systems  
 - [Metasploitable Vulnerability Assessment](Projects/Metasploitable-Vulns/README.md) – Scanning & exploiting vulnerable VM  
-- [Network Monitoring & Traffic Analysis](Projects/Network-Monitoring/README.md) – Using Wireshark, Zeek, and tcpdump for packet analysis  
+- [IDS-Lab](Projects/IDS-Lab/README.md) – Using Wireshark, Zeek, and tcpdump for packet analysis  
 
 ### 🔜 Planned Projects
 - [Active Directory Setup & Attacks](Projects/Active-Directory/README.md) – Build & secure an AD environment, simulate common attacks  
