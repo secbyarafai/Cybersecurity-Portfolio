@@ -1,16 +1,19 @@
-# Network Monitoring & Traffic Analysis 🌐
+# Intrusion Detection Lab (Snort + Ubuntu + Metasploitable + Kali) 🔍
 
 ## Overview
-Monitoring and analyzing network traffic with Wireshark, Zeek, and tcpdump.
+A small IDS lab built using Ubuntu (running Snort), two Metasploitable machines on an internal network, and Kali Linux as an external attacker system.  
+The goal is to detect network traffic (ICMP, port scans, etc.) using Snort rules and analyze alerts.
 
 ## Blog Write-up
-🔗 [Full Network Monitoring project](https://your-blog-link)
+📖 [Full Lab Walkthrough](https://yourbloglinkhere.com)
 
 ## Tools Used
-- Wireshark
-- Zeek
-- tcpdump
+- Ubuntu (Snort IDS)
+- Metasploitable 1 & 2
+- Kali Linux
+- Wireshark / tcpdump
 
 ## Key Takeaways
-- Placeholder
-
+- Learned to configure multi-VM networks with different IPv4 ranges.  
+- Wrote simple Snort rules to detect ICMP echo traffic.  
+- Practiced capturing and analyzing traffic with tcpdump and Wireshark.
