@@ -1,7 +1,7 @@
 # Intrusion Detection Lab (Snort + Ubuntu + Metasploitable + Kali) 🔍
 
 ## Overview
-A small IDS lab built using Ubuntu (running Snort), two Metasploitable machines on an internal network, and Kali Linux as an external attacker system.  
+A small IDS lab built using Ubuntu (running Snort), Metasploitable 2 machines on an internal network, and Kali Linux as an external attacker system.  
 The goal is to detect network traffic (ICMP, port scans, etc.) using Snort rules and analyze alerts.
 
 ## Blog Write-up
@@ -9,7 +9,7 @@ The goal is to detect network traffic (ICMP, port scans, etc.) using Snort rules
 
 ## Tools Used
 - Ubuntu (Snort IDS)
-- Metasploitable 1 & 2
+- Metasploitable 2
 - Kali Linux
 - Wireshark / tcpdump
 
