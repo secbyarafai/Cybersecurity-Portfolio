@@ -4,8 +4,7 @@ Welcome to my cybersecurity portfolio!
 This repo is the **index** of all my projects, labs, and write-ups.  
 
 Full detailed reports are published on my **blog**:  
-👉 [Read my cybersecurity blog] https://secbyarafai.blogspot.com/2025/06/Journey-To-Cybersecurity.html
-
+👉 [Read my cybersecurity blog] https://secbyarafai.blogspot.com/
 ---
 
 ## 🧪 Labs & Projects
