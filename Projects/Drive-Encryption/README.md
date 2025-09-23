@@ -4,7 +4,7 @@
 This project demonstrates how to encrypt a flash drive using **VeraCrypt**, an open-source disk encryption tool.  
 The goal is to showcase practical skills in **data confidentiality** (part of the CIA triad) by securing removable storage against unauthorized access.
 
-🔗 [Read the full write-up on my blog](https://yourbloglink.com)  
+🔗 [Full drive encryption project](https://yourbloglink.com)  
 
 ---
 
