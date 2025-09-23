@@ -1,4 +1,4 @@
-##🔐 Flash Drive Encryption with VeraCrypt
+## 🔐 Flash Drive Encryption with VeraCrypt
 
 ## 📌  Overview
 This project demonstrates how to encrypt a flash drive using **VeraCrypt**, an open-source disk encryption tool.  
