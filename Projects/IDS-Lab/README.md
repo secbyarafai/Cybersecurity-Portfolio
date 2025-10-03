@@ -69,7 +69,7 @@ ping -c 3 <ip addr>
 Nmap SYN scan:
 
 ```bash
-sudo nmap -sS -sV -A 192.168.113.133
+sudo nmap -sS -sV -A <metasploitable2 ip>
 ```
 ➡️ Snort should alert with: NMAP SYN scan detected
 
