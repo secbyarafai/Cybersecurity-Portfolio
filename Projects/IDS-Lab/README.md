@@ -30,3 +30,5 @@ It uses **Snort** (running on Ubuntu) to detect malicious traffic such as ICMP p
 ```bash
 sudo apt update
 sudo apt install snort
+
+uggughguj
