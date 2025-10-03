@@ -1,3 +1,5 @@
+![Intrusion Detection Lab Banner](banner.png)
+
 # 🚨 Intrusion Detection Lab (Snort + Ubuntu + Metasploitable + Kali)
 
 ## 📌 Overview
