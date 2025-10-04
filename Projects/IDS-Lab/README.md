@@ -13,7 +13,7 @@ This is a **small IDS lab project** where I used **Snort** on Ubuntu to detect m
 The goal of this project is to **practice intrusion detection** in a home lab setup and demonstrate how custom Snort rules can catch simple attacks.  
 
 👉 **Read the full project walkthrough with screenshots here:**  
-[🔗 Full Blog Post](https://yourbloglinkhere.com)
+[🔗 Full Blog Post](https://secbyarafai.blogspot.com/2025/10/project-2-snort-sentinel-practical-ids.html)
 
 ---
 
