@@ -1,4 +1,12 @@
 # 🚨 Intrusion Detection Lab (Snort + Ubuntu + Metasploitable + Kali)
+# 🎯 Intrusion Detection Lab (Snort + Ubuntu + Metasploitable + Kali)
+
+![Snort](https://img.shields.io/badge/IDS-Snort-red)
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange)
+![Kali](https://img.shields.io/badge/Attacker-Kali%20Linux-blue)
+![Metasploitable](https://img.shields.io/badge/Target-Metasploitable2-green)
+![Wireshark](https://img.shields.io/badge/Tool-Wireshark-lightgrey)
+
 
 ## 📌 Overview
 This is a **small IDS lab project** where I used **Snort** on Ubuntu to detect malicious traffic (ICMP pings and Nmap scans) coming from Kali Linux against a Metasploitable VM.  
