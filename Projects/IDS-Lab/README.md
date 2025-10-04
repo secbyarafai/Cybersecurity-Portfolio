@@ -3,13 +3,17 @@
 # 🚨 Intrusion Detection Lab (Snort + Ubuntu + Metasploitable + Kali)
 
 ## 📌 Overview
-This project is a small **Intrusion Detection System (IDS) lab** designed for learning and portfolio demonstration.  
-It uses **Snort** (running on Ubuntu) to detect malicious traffic such as ICMP pings and Nmap scans inside a controlled virtual environment.
+This is a **small IDS lab project** where I used **Snort** on Ubuntu to detect malicious traffic (ICMP pings and Nmap scans) coming from Kali Linux against a Metasploitable VM.  
+
+The goal of this project is to **practice intrusion detection** in a home lab setup and demonstrate how custom Snort rules can catch simple attacks.  
+
+👉 **Read the full project walkthrough with screenshots here:**  
+[🔗 Full Blog Post](https://yourbloglinkhere.com)
 
 ---
 
 ## 🖥️ Lab Topology
-- **Ubuntu (Snort IDS)** → 192.168.113.133 (example)  
+- **Ubuntu (Snort IDS)** → 192.168.113.133
 - **Kali Linux (Attacker)** → performs pings and Nmap scans  
 - **Metasploitable 2 (Target)** → vulnerable machine  
 
@@ -21,10 +25,16 @@ It uses **Snort** (running on Ubuntu) to detect malicious traffic such as ICMP p
 - Ubuntu (Snort IDS)  
 - Kali Linux (attacker)  
 - Metasploitable 2 (target)  
-- Wireshark / tcpdump (traffic analysis)  
-- nmap (scanning tool)  
+- Wireshark (traffic analysis)  
 
 ---
+## 🔑 Key Takeaways
+- **Snort reliably detects simple network probes** (ICMP pings, SYN scans) when rules are correctly written and HOME_NET is set.  
+- **Rule syntax is strict** — small typos (missing spaces, wrong separators) will break parsing; always test with `sudo snort -c /etc/snort/snort.conf -T`.  
+- **Immediate alerts are noisy** — removing thresholds shows activity instantly (useful for demos), but thresholds/detection_filter are necessary for realistic deployments to reduce false positives.  
+- **Isolated lab networks are essential** — keep Metasploitable and scanning traffic on a host-only/internal network to avoid accidental exposure.  
+- **Next steps:** integrate alerts into a SIEM (ELK/SecurityOnion), expand rule coverage, and tune thresholds for production-like behaviour.
+
 
 ## ⚙️ Setup Guide
 
