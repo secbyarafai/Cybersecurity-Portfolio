@@ -1,5 +1,4 @@
 # 🚨 Intrusion Detection Lab (Snort + Ubuntu + Metasploitable + Kali)
-# 🎯 Intrusion Detection Lab (Snort + Ubuntu + Metasploitable + Kali)
 
 ![Snort](https://img.shields.io/badge/IDS-Snort-red)
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange)
