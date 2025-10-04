@@ -18,7 +18,7 @@ The goal of this project is to **practice intrusion detection** in a home lab se
 ---
 
 ## 🖥️ Lab Topology
-- **Ubuntu (Snort IDS)** → 192.168.113.133
+- **Ubuntu (Snort IDS)** → runs Snort and stores alerts/logs.
 - **Kali Linux (Attacker)** → performs pings and Nmap scans  
 - **Metasploitable 2 (Target)** → vulnerable machine  
 
