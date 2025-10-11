@@ -30,7 +30,8 @@ The goal of this project is to **practice intrusion detection** in a home lab se
 - Ubuntu (Snort IDS)  
 - Kali Linux (attacker)  
 - Metasploitable 2 (target)  
-- Wireshark (traffic analysis)  
+- Wireshark (traffic analysis)
+- Nmap (scanning tool)   
 
 ---
 ## 🔑 Key Takeaways
