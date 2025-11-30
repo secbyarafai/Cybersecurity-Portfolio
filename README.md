@@ -23,8 +23,6 @@ Full detailed reports are published on my **blog**:
 
 ## 📝 Write-ups
 - [TryHackMe Challenges](Writeups/TryHackMe/README.md) – Path progress and notes  
-- [HackTheBox Challenges](Writeups/HTB/README.md) – Walkthroughs of selected boxes   
-
 ---
 
 ## 🎯 Goal
