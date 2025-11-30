@@ -12,7 +12,8 @@ Full detailed reports are published on my **blog**:
 ### ✅ Completed / In Progress
 - [SOC Home Lab Setup](Projects/SOC-Lab/README.md) – Virtual lab with Windows, Linux, and SIEM tools  
 - [Metasploitable Vulnerability Assessment](Projects/Metasploitable-Vulns/README.md) – Scanning & exploiting vulnerable VM  
-- [IDS-Lab](Projects/IDS-Lab/README.md) – Using snort and wireshark for packet analysis  
+- [IDS-Lab](Projects/IDS-Lab/README.md) – Using snort and wireshark for packet analysis
+- [Malware Analysis](Projects/Malware-Analysis/README.md) – Using wireshark to analyse a malware pcap packet analysis  
 
 ### 🔜 Planned Projects
 - [Active Directory Setup & Attacks](Projects/Active-Directory/README.md) – Build & secure an AD environment, simulate common attacks  
