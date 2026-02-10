@@ -47,7 +47,7 @@ The goal of this project is to **practice intrusion detection** in a home lab se
 ### 1️⃣ Install Snort on Ubuntu
 ```bash
 sudo apt update
-sudo apt install snort
+sudo apt install snort -y
 ```
 During installation, I set the HOME_NET variable to my subnet  192.168.113.0/24.
 ```bash
