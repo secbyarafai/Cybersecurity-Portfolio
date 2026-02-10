@@ -68,6 +68,12 @@ alert icmp any any -> $HOME_NET any (msg:"ICMP Ping Detected"; sid:100001; rev:1
 alert tcp any any -> $HOME_NET any (msg:"NMAP SYN scan detected"; flags:S; sid:1000001; rev:1;)
 ```
 Save and exit.
+
+###3️⃣ Test Snort
+```bash
+sudo snort -T -c /etc/snort/snort.conf
+```
+
 ###3️⃣ Run Snort
 
 Run Snort in console alert mode on your interface (ens33 is an example — replace with your actual one):
