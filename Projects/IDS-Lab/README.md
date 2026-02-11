@@ -77,12 +77,15 @@ Save and exit.
 ```bash
 sudo snort -T -c /etc/snort/snort.conf
 ```
-
 ###3️⃣ Run Snort
 
 Run Snort in console alert mode on your interface (ens33 is an example — replace with your actual one):
 ```bash
 sudo snort -A console -q -c /etc/snort/snort.conf -i ens33
+```
+OR
+```bash
+sudo snort -q -l /var/log/snort -i ens33 -A full -c /etc/snort/snort.conf
 ```
 ###4️⃣ Testing the Rules
 
