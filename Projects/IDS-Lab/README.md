@@ -53,11 +53,15 @@ During installation, I set the HOME_NET variable to my subnet  192.168.113.0/24.
 ```bash
 var HOME_NET 192.168.113.0/24
 ```
+### Edit Config
+```bash
+sudo nano /etc/snort/snort.conf
+```
 ###2️⃣ Add Custom Snort Rules
 
 Open the local rules file:
 ```bash
-sudo vim /etc/snort/rules/local.rules
+sudo nano /etc/snort/rules/local.rules
 ```
 Add the following rules:
 ```bash
