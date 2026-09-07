@@ -16,14 +16,10 @@ Full detailed reports are published on my **blog**:
 
 ### 🔜 Planned Projects
 - [Active Directory Setup & Attacks](Projects/Active-Directory/README.md) – Build & secure an AD environment, simulate common attacks  
-- [SIEM Alert Tuning](Projects/SIEM-Tuning/README.md) – Configuring Wazuh/ELK for log analysis & detection use cases  
 - [Incident Response Simulation](Labs/Incident-Response/README.md) – Simulate a phishing or malware incident, document IR process  
 
 ---
 
-## 📝 Write-ups
-- [TryHackMe Challenges](Writeups/TryHackMe/README.md) – Path progress and notes  
----
 
 ## 🎯 Goal
 To demonstrate **practical, hands-on skills** in cybersecurity while learning continuously.  
